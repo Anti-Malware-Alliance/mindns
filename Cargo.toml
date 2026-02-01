@@ -13,6 +13,7 @@ chrono = "0.4.31"
 env_logger = "0.10.0"
 log = "0.4.20"
 net2 = "0.2.39"
+num_cpus = "1.16"
 serde = "1.0.189"
 serde_derive = "1.0.189"
 tokio = { version = "1.33.0", features = ["full", "tracing"] }

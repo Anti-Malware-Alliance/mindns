@@ -310,6 +310,7 @@ dependencies = [
  "env_logger",
  "log",
  "net2",
+ "num_cpus",
  "serde",
  "serde_derive",
  "tokio",
